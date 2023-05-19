@@ -14,7 +14,6 @@ import marshal
 from bs4 import BeautifulSoup as irfan
 land = '23860'
 hars = '703036'
-
 def irfanx(z):
     for e in z + '\n':
         sys.stdout.write(e)
